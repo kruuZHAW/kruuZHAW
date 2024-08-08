@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kruuZHAW
 - 👀 I’m interested in Machine Learning, Deep Learning and Statistics
-- 🌱 I’m currently a Ph.D. Candidate in Data Science at ONERA Toulouse and ZHAW Winterthur
+- 🌱 I’m currently a researcher at the ZHAW in Winterthur (CH) in Deep Learning applied to Air Traffic Management. 
 - 📫 How to reach me timothe.krauth@zhaw.ch
 
 <!---
